@@ -1,1 +1,1 @@
-# Configuration Data
+# Configuration LazyVIM
