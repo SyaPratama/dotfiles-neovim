@@ -1,6 +1,9 @@
 {
   "extras": [
-
+    "lazyvim.plugins.extras.ai.claudecode",
+    "lazyvim.plugins.extras.ai.copilot-chat",
+    "lazyvim.plugins.extras.editor.neo-tree",
+    "lazyvim.plugins.extras.ui.dashboard-nvim"
   ],
   "install_version": 8,
   "news": {
